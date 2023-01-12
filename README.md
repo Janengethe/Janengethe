@@ -1,5 +1,5 @@
 ### Hi there 👋
-- [ x ] I add my resume (Markdown or PDF version) in the folder `applications`
+-[x] I add my resume (Markdown or PDF version) in the folder `applications`
 - [ x ] I'm serious about my application
 - [ x ] I'm ready to join the team and tackle incredible challenges
 - [ x ] I'm matching the majority of the job requirements
