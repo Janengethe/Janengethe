@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- [x] I add my resume (Markdown or PDF version) in the folder `applications`
-- [x] I'm serious about my application
-- [x] I'm ready to join the team and tackle incredible challenges
-- [x] I'm matching the majority of the job requirements
-- [x] I understand all positions are remote
-- [x] All information provided about myself are true
 
 <!--
 **Janengethe/Janengethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
